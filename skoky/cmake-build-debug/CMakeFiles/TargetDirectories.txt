@@ -1,0 +1,3 @@
+C:/Programko/C/skoky/cmake-build-debug/CMakeFiles/skoky.dir
+C:/Programko/C/skoky/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programko/C/skoky/cmake-build-debug/CMakeFiles/rebuild_cache.dir
